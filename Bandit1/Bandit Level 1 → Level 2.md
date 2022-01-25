@@ -26,5 +26,5 @@ bandit1@bandit:~$ cat -
 bandit1@bandit:~$ cat ./- 
 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 ```
-- And here is the password for the next level `boJ9jbbUNNfktd78OOpsqOltutMc3MY1`
+- And here is the password for the next level `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
 
