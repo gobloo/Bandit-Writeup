@@ -1,3 +1,3 @@
 # Writeup
 
-##Bandit 1
+## Bandit 1
