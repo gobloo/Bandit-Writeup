@@ -14,7 +14,7 @@ bandit1@bandit.labs.overthewire.org's password:  `boJ9jbbUNNfktd78OOpsqOltutMc3M
 - The password is stored in file `-` located in the home directory 
 ```
 bandit1@bandit:~$ ls
--
+ -
 ```
 - We try to see the content
 ```
