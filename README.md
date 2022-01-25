@@ -1,4 +1,4 @@
-# Writeup "OverTheWire Level 0: bandit0 "
+# Writeup "OverTheWire Level 0: bandit0"
 
 
 ## Description : 
