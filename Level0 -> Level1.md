@@ -21,4 +21,5 @@ readme
 bandit0@bandit:~$ cat readme
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
+and here is the password for the next level `boJ9jbbUNNfktd78OOpsqOltutMc3MY1`
 
