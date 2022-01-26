@@ -21,7 +21,7 @@ bandit2@bandit.labs.overthewire.org's password: `UmHadQclWmgdLOKQ3YNgjWxGoRMb5lu
 ```
  bandit3@bandit:~/inhere$ ls -a
  .  ..  .hidden
- bandit3@bandit:~/inhere$ cat .hidden
+ **bandit3@bandit:~/inhere$** cat .hidden
  pIwrPrtPN36QITSp3EQaw936yaFoFgAB
  ```
 
