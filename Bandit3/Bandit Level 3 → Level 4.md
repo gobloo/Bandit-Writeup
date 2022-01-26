@@ -18,7 +18,7 @@ bandit2@bandit.labs.overthewire.org's password: `UmHadQclWmgdLOKQ3YNgjWxGoRMb5lu
   bandit3@bandit:~/inhere$ 
 ```
 - We can't see them hidden files with simple ls so we add the attribute `-a`
-```c
+```
  bandit3@bandit:~/inhere$ ls -a
  .  ..  .hidden
  bandit3@bandit:~/inhere$ cat .hidden
