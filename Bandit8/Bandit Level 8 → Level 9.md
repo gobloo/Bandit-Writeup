@@ -10,7 +10,7 @@
 ```
 bandit8@bandit.labs.overthewire.org's password: `cvX2JJa4CFALtqS87jk27qwqGhBM9plV`
 
-- like we see in the question one line and occurs only once, that's mean we will use `uniq` which filters out the repeated lines in a file with the attribute `-u` for uniq line
+- like we see in the question one line and occurs only once, that's mean we will use `uniq` which filters out the repeated lines in a file and we add the attribute `-u` for uniq line
 but there's a probleme uniq : detects the adjacent duplicate lines so lets sort the file first 
 ```
   bandit8@bandit:~$ sort data.txt | uniq -u
