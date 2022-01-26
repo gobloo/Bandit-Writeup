@@ -1,3 +1,11 @@
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 # Writeup "OverTheWire Bandit Level 2 → Level 3"
 
 ## Description : 
@@ -15,7 +23,7 @@ bandit2@bandit.labs.overthewire.org's password: `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA
 ```
 - We try to see the content
 ```
-  bandit1@bandit:~$ cat "spaces in this filename"
+  bandit2@bandit:~$ cat "spaces in this filename"
   UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 ```
 - And here is the password for the next level `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
