@@ -7,7 +7,7 @@
 ```
 $ ssh bandit3@bandit.labs.overthewire.org -p 2220
 ```
-bandit2@bandit.labs.overthewire.org's password: `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
+bandit3@bandit.labs.overthewire.org's password: `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
 
 - The password is stored in a hidden file in inhere directory 
 ```
