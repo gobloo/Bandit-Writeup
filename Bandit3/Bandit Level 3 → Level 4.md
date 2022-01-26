@@ -10,9 +10,9 @@ $ ssh bandit3@bandit.labs.overthewire.org -p 2220
 bandit2@bandit.labs.overthewire.org's password: `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
 
 - The password is stored in a hidden file in inhere directory 
-```diff
+```
   bandit3@bandit:~$ ls
-  + inhere
+  inhere
   bandit3@bandit:~$ cd inhere 
   bandit3@bandit:~/inhere$ ls
   bandit3@bandit:~/inhere$ 
