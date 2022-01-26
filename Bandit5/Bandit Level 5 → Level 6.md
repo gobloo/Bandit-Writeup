@@ -1,4 +1,4 @@
-# Writeup "OverTheWire Bandit Level 4 → Level 5"
+# Writeup "OverTheWire Bandit Level 5 → Level 6"
 
 ## Description : 
 The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
