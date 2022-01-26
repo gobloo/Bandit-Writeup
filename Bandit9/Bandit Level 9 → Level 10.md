@@ -10,7 +10,7 @@
 ```
 bandit9@bandit.labs.overthewire.org's password: `UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR`
 
-- we have an idea that's the file is not all human-readable, so i'll use `strings` and we have a hint *** preceded by several **=** characters ***
+- we have an idea that's the file is not all human-readable, so I'll use `strings` and we have a hint ***preceded by several **=** characters***
  I'll use `grep` too
  ```diff
   bandit9@bandit:~$ strings data.txt | grep '='
