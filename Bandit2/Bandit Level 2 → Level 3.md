@@ -5,17 +5,17 @@
 ## Solution :
 - First, we need to connect to ssh on port 2220 and we use the password founded in the previous level: 
 ```
-$ ssh bandit2@bandit.labs.overthewire.org -p 2220
+  $ ssh bandit2@bandit.labs.overthewire.org -p 2220
 ```
 bandit2@bandit.labs.overthewire.org's password: `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
 - The password is stored in file `spaces in this filename` located in the home directory 
 ```
-bandit2@bandit:~$ ls
-spaces in this filename
+  bandit2@bandit:~$ ls
+  spaces in this filename
 ```
 - We try to see the content
 ```
-bandit1@bandit:~$ cat "spaces in this filename"
-
+  bandit1@bandit:~$ cat "spaces in this filename"
+  UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 ```
 - And here is the password for the next level `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
