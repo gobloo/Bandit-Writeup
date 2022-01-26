@@ -7,7 +7,7 @@
 ```
 $ ssh bandit2@bandit.labs.overthewire.org -p 2220
 ```
-bandit1@bandit.labs.overthewire.org's password: `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
+bandit2@bandit.labs.overthewire.org's password: `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
 - The password is stored in file `spaces in this filename` located in the home directory 
 ```
 bandit2@bandit:~$ ls
