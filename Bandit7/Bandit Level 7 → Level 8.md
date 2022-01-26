@@ -7,7 +7,7 @@
 ```
 $ ssh bandit7@bandit.labs.overthewire.org -p 2220
 ```
-bandit6@bandit.labs.overthewire.org's password: `HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs`
+bandit7@bandit.labs.overthewire.org's password: `HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs`
 
 - Search something inside a file <==> `grep` command
 ```
