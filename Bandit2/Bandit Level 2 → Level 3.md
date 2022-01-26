@@ -14,8 +14,8 @@ bandit2@bandit.labs.overthewire.org's password: `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA
   spaces in this filename
 ```
 - We try to see the content
-```diff
+```
   bandit2@bandit:~$ cat "spaces in this filename"
-  + UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+  UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 ```
 - And here is the password for the next level `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
