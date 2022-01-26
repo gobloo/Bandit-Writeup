@@ -77,3 +77,12 @@ find: ‘/var/cache/apt/archives/partial’: Permission denied
 find: ‘/var/cache/ldconfig’: Permission denied
 
 ```
+- Let's check its content 
+```
+bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+```
+- And here is the password for the next level `HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs`
+
+
