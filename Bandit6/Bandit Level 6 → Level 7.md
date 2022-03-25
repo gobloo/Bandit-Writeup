@@ -78,8 +78,8 @@ find: ‘/var/cache/ldconfig’: Permission denied
 
 ```
 - but it's better to add `2>/dev/null` at the end of the command so we will redirct all the errors to null file 
-```
-bandit6@bandit:~$ find / -group bandit6 -a -user bandit7 -size 33c 2>/dev/null
+```diff
+bandit6@bandit:~$ find / -group bandit6 -a -user bandit7 -size 33c `2>/dev/null`
 +/var/lib/dpkg/info/bandit7.password
 ```
 
