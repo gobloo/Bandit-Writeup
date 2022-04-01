@@ -51,7 +51,7 @@ bandit13@bandit:~$ ssh -i sshkey.private bandit142localhost
 bandit14@bandit:~$ whoami
 bandit14
 ```
-- No wwe need to look for passwor, all apsswords are stored in `/etc/bandit_pass/` : 
+- No we need to look for the password, all passwords are stored in `/etc/bandit_pass/` : 
 ```
 bandit14@bandit:~$ cd /etc/bandir_pass/
 bandit14@bandit:~$ ls
