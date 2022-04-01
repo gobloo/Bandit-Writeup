@@ -7,7 +7,7 @@
 ```
   $ ssh bandit11@bandit.labs.overthewire.org -p 2220
 ```
-bandit10@bandit.labs.overthewire.org's password: `IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR`
+bandit11@bandit.labs.overthewire.org's password: `IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR`
 
 - Let's check the file's content
 ```
