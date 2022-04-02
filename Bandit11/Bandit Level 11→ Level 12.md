@@ -17,7 +17,7 @@ bandit11@bandit.labs.overthewire.org's password: `IFukwKGsFW8MOq3IRFqrxE1hxTNEbU
 
 - We can use [CYBER CHEF](https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,13)) , I prefer to use the command line:
 ```
-bandit11@bandit:~$ alias Rot13 = "tr 'A-Za-z' 'N-ZA-Mn-za-m'"
+bandit11@bandit:~$ alias Rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"
 bandit11@bandit:~$ cat data.txt | ROT13
 The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 ```
